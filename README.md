@@ -27,13 +27,16 @@ Education
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 . Bachelors in Information Technology - India (graduated on September 2020)
+
 . Masters of Science in Data Science - University of Michigan (graduated on April 2023)
 
 Certificates
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 . Machine Learning Professional Certificate (May, 2020)
+
 . Google Cloud Infrastructure Professional Certificate (Feb, 2023)
+
 . Jenzabar One Residence Life administration Certificate (Jan, 2026)
 
 Social Media Contact
