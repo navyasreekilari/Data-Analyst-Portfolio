@@ -13,17 +13,14 @@ Below are few projects that I have worked during my free time and certificates I
 Projects
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+. Analysis on Trending Videos 
+https://github.com/navyasreekilari/Analysis-on-trending-video-Data-Mining-
+This project is deep analysis on trending youtube videos.
+Methods Used: Clustering, K-means and TF-DIF data mining technologies.
 
-
-
-
-
-
-
-
-
-
-
+. Data Visualization for Chocolate Factory using PowerBI 
+https://github.com/navyasreekilari/PowerBI
+This project is building visualizations to show several trends in chocolate factory.
 
 
 Education
