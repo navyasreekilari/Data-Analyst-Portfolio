@@ -4,7 +4,7 @@ This repository is dedicated to showcasing my analytical skills and sharing vari
 About
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hello, I'm Navya, a data analyst with over 5 years experience  bridging the gap between technical teams and business stakeholders. Proven track record in requirement gathering, process modeling, and developing KPI dashboards to drive operational efficiency. Expert in 
+Hello, I'm Navya, a data analyst with over 5 years of experience bridging the gap between technical teams and business stakeholders. Proven track record in requirement gathering, process modeling, and developing KPI dashboards to drive operational efficiency. Expert in 
 transforming complex data into actionable insights while ensuring strict data integrity. I do have more than 3 years of experience dealing with data related to higher educational sector and 2 years of experience related to managing data in automotive sector.
 
 I'm responsible for creating reports that are requested by various departments in the university. To build these, I usually use Excel, PowerBI and Infomaker tools in my day-to-day worklife.
